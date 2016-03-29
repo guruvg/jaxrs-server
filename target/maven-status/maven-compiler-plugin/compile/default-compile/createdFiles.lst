@@ -1,0 +1,14 @@
+io\swagger\api\NotFoundException.class
+io\swagger\api\StringUtil.class
+io\swagger\api\ApiOriginFilter.class
+io\swagger\api\ApiException.class
+io\swagger\api\CustomersApiService.class
+io\swagger\api\impl\CustomersApiServiceImpl.class
+io\swagger\api\CustomersApi.class
+io\swagger\model\GmfcustomerLoans.class
+io\swagger\api\ApiResponseMessage.class
+io\swagger\model\GmfcustomerAddress.class
+io\swagger\model\ErrorResponse.class
+io\swagger\api\factories\CustomersApiServiceFactory.class
+io\swagger\model\GmfCustomer.class
+io\swagger\model\CustomerResponse.class
